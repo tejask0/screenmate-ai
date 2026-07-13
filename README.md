@@ -4,7 +4,9 @@ A local desktop AI assistant that can see your screen. It runs a floating, alway
 
 ![License: MIT](https://img.shields.io/badge/license-MIT-blue) ![Electron](https://img.shields.io/badge/Electron-31-47848F) ![React](https://img.shields.io/badge/React-18-61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6)
 
-> Status: v0.1 (MVP). This is a build-in-public learning project. Expect rough edges.
+<p align="center">
+  <img src="./docs/screenshot.jpg" alt="ScreenMate overlay showing the chat prompt" width="320">
+</p>
 
 ## Why
 
